@@ -39,15 +39,15 @@ etc, can be uniquely rendered!
 
 Examples
 =========
-
-Default:
+* Default:
 
 .. image:: ../images/DefaultEvent.png
   :width: 400
   :alt: Default
 
-Apple:
 
-.. image:: ../images/AppleEvent.png
+* RetroApple:
+
+.. image:: ../images/RetroAppleEvent.png
   :width: 400
   :alt: Default
