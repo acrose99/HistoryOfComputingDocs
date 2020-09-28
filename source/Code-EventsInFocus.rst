@@ -69,6 +69,7 @@ Props
 * Images: The src/url of the pics we want to display
  * Currently we only support two, but this will change soon
 
+
 Default CSS
 -----------
 Tinker around with EventInFocus.css
