@@ -34,6 +34,5 @@ Fields
 * Location: Where the event happened
 * Body: 1-2 sentences describing the event
 * Citations: Put any citations here? If there are none, that's fine (at least on a code level, as a amateur historian, it's bad).
-* Image: The src/url of the pic we want to display
 * TimelineImage: The image shown during the initial timeline
 * EventFocusImages: The image(s) shown in the body of the EventInFocus. None are necessary, though at leas one is preferred.
