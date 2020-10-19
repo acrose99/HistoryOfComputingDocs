@@ -54,8 +54,13 @@ html_theme = 'alabaster'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 master_doc = "index"
-
+html_favicon = 'favicon.ico'
 html_theme_options = {
     'logo': 'Logo.png',
-    'html_favicon': 'favicon.ico'
+    'description': "Documentation for the ever expanding project about making history cool.",
+    'github_user': 'acrose99',
+    'github_repo': 'HistoryOfComputingDocs',
+    'github_button': 'false',
+    'travis_button': 'true',
+    'show_powered_by': 'false'
 }
