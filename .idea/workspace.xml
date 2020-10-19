@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5445baa-934e-4e68-94ad-f80782c15c03" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/images/AppleEventInFocus.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/images/AppleEventInFocus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/DefaultEvent.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/images/DefaultEvent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/DefaultEventInFocus.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/images/DefaultEventInFocus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/RetroAppleEvent.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/images/RetroAppleEvent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/TimelineEvents.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/images/TimelineEvents.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/TimelineIntro.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/images/TimelineIntro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Design-Events.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/Design-Events.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Design-EventsInFocus.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/Design-EventsInFocus.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Design-Timeline.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/Design-Timeline.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/HistoryofComputingLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/JSONEvent.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/JSONEvent.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/ai.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_static/Logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/the-code.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/the-code.rst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="b4ec0efd-8bd5-49af-a960-2214fff0fbbd" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ove9u6jg" />
+  </component>
+  <component name="ProjectId" id="1i93T3RCSax6cjpEEXSUcLsue8L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_static" />
+      <recent name="$PROJECT_DIR$/source/images" />
+      <recent name="$PROJECT_DIR$/source" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5445baa-934e-4e68-94ad-f80782c15c03" name="Default Changelist" comment="" />
+      <created>1601305985810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601305985810</updated>
+      <workItem from="1601305989934" duration="22000" />
+      <workItem from="1601306024083" duration="30000" />
+      <workItem from="1601306073303" duration="7395000" />
+      <workItem from="1603114007606" duration="5428000" />
+    </task>
+    <task id="LOCAL-00001" summary="Sphinx">
+      <created>1601306247910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601306247910</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".yml">
+      <created>1601307877291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601307877291</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed .yml">
+      <created>1601308261414</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601308261414</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Alexa play Hurt by Johnny Cash">
+      <created>1601309807713</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601309807713</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.1 is done">
+      <created>1601312016716</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601312016716</updated>
+    </task>
+    <task id="LOCAL-00006" summary="forgot a file">
+      <created>1601312047604</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601312047604</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Better dating">
+      <created>1601312638000</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601312638000</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changed theme since insegel is buggy">
+      <created>1601313326258</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601313326258</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updating info about Events now that we use JSON">
+      <created>1603116721016</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603116721016</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Forgot to include JSONEvent in the toctree">
+      <created>1603116985672</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603116985672</updated>
+    </task>
+    <task id="LOCAL-00011" summary="oops">
+      <created>1603117183549</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603117183549</updated>
+    </task>
+    <task id="LOCAL-00012" summary="God I need to proofread more">
+      <created>1603117270892</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603117270892</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updating version">
+      <created>1603117385366</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603117385366</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added logo">
+      <created>1603119751713</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1603119751713</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sphinx" />
+    <MESSAGE value=".yml" />
+    <MESSAGE value="changed .yml" />
+    <MESSAGE value="Alexa play Hurt by Johnny Cash" />
+    <MESSAGE value="1.1 is done" />
+    <MESSAGE value="forgot a file" />
+    <MESSAGE value="Better dating" />
+    <MESSAGE value="Changed theme since insegel is buggy" />
+    <MESSAGE value="Updating info about Events now that we use JSON" />
+    <MESSAGE value="Forgot to include JSONEvent in the toctree" />
+    <MESSAGE value="oops" />
+    <MESSAGE value="God I need to proofread more" />
+    <MESSAGE value="Updating version" />
+    <MESSAGE value="Added logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added logo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603119671724">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="305" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1603119671724" />
+    <state x="575" y="59" key="CommitChangelistDialog2" timestamp="1603119751570">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="575" y="59" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1603119751570" />
+    <state x="657" y="61" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1601313326161" />
+    <state x="631" y="282" key="Vcs.Push.Dialog.v2" timestamp="1603119752941">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="631" y="282" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1603119752941" />
+    <state x="721" y="290" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1601313328932" />
+    <state x="428" y="154" width="1387" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1601306052862">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="428" y="154" width="1387" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601306052862" />
+    <state x="428" y="154" width="1387" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601309018838">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="428" y="154" width="1387" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601309018838" />
+    <state x="686" y="265" width="672" height="660" key="search.everywhere.popup" timestamp="1603121145810">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="686" y="265" width="672" height="660" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1603121145810" />
+    <state x="784" y="273" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601307147385" />
+  </component>
+</project>

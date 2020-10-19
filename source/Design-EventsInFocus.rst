@@ -15,12 +15,12 @@ See these examples
 -------------------
 Default:
 
-.. image:: ../images/DefaultEventInFocus.png
+.. image:: images/DefaultEventInFocus.png
   :width: 400
   :alt: Default
 
 Mac 1984:
 
-.. image:: ../images/AppleEventInFocus.png
+.. image:: images/AppleEventInFocus.png
   :width: 400
   :alt: Default

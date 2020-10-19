@@ -8,6 +8,8 @@ Events
 * If you are a programmer check out the React Code.
 
 .. toctree::
+    :maxdepth: 1
+
     JSONEvent
     Code-Event
 

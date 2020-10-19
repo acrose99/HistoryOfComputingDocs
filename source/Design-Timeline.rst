@@ -23,13 +23,13 @@ Our current concept
 
 * The Intro
 
- .. image:: ../images/TimelineIntro.png
+ .. image:: images/TimelineIntro.png
     :width: 600
     :alt: Timeline
 
 * Some Events
 
- .. image:: ../images/TimelineEvents.png
+ .. image:: images/TimelineEvents.png
     :width: 600
     :alt: Timeline
 

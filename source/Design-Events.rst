@@ -41,13 +41,13 @@ Examples
 =========
 * Default:
 
-.. image:: ../images/DefaultEvent.png
+.. image:: /images/DefaultEvent.png
   :width: 400
   :alt: Default
 
 
 * RetroApple:
 
-.. image:: ../images/RetroAppleEvent.png
+.. image:: images/RetroAppleEvent.png
   :width: 400
   :alt: Default

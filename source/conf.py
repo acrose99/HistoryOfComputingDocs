@@ -56,5 +56,6 @@ html_static_path = ['_static']
 master_doc = "index"
 
 html_theme_options = {
-    'logo': 'ai.png',
+    'logo': 'Logo.png',
+    'html_favicon': 'favicon.ico'
 }

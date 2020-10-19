@@ -31,8 +31,10 @@ The JSON code
 Fields
 ----------
 * ID: This currently does nothing and may be removed, might be useful if we ever start hosting events in a noSQL database.
+* A one sentence description of the event. Used for the event in the initial timeline.
+* Body: The actual text describing the event. This can be as long as you want it, just make sure it's within the quoted strings on the line.
+* Date: When the event happened, either a string or a number, since problems exist with the DATE Javascript notation.
 * Location: Where the event happened
-* Body: The text describing the event. This can be as long as you want it, just make sure it's within the quoted strings on the line.
 * Citations: Put any citations here? If there are none, that's fine (at least on a code level, as a amateur historian, it's bad).
 * TimelineImage: The image shown during the initial timeline
 * EventFocusImages: The image(s) shown in the body of the EventInFocus. None are necessary, though at leas one is preferred.
