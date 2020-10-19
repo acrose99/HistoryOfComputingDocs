@@ -67,7 +67,7 @@ Props
 * Header: Summary of the event
 * Body: The text of the event, as one paragraph
 * Images: The src/url of the pics we want to display
- * Currently we only support two, but this will change soon
+* Currently we only support two, but this will change soon
 
 
 Default CSS

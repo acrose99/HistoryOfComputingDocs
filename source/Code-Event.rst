@@ -1,5 +1,5 @@
 The React Code for an event
-==========================
+=============================
     .. code-block:: javascript
 
         function Event(props) {
