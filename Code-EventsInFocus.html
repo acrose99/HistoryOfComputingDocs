@@ -1,0 +1,242 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>The Basic React Code for an Event In Focus &#8212; History Of Computing Docs 1.2 documentation</title>
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/language_data.js"></script>
+    <link rel="shortcut icon" href="_static/favicon.ico"/>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="The Code for A Timeline" href="Code-Timeline.html" />
+    <link rel="prev" title="The React Code for an event" href="Code-Event.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <div class="section" id="the-basic-react-code-for-an-event-in-focus">
+<h1>The Basic React Code for an Event In Focus<a class="headerlink" href="#the-basic-react-code-for-an-event-in-focus" title="Permalink to this headline">¶</a></h1>
+<blockquote>
+<div><div class="highlight-javascript notranslate"><div class="highlight"><pre><span></span>return (
+     &lt;div className=&quot;showEventWrapper&quot;&gt;
+       &lt;div className=&quot;showEvent&quot;&gt;
+         &lt;div className=&quot;vaporwaveBar&quot;&gt;
+           &lt;div className=&quot;vbar-buttons&quot;&gt;
+             &lt;button className=&quot;vaporwaveBarContents&quot;&gt;
+               &lt;img
+                   src={require(&quot;../images/media_player_stream_no.png&quot;)}
+                   alt=&quot;alt&quot;
+               /&gt;
+             &lt;/button&gt;
+             &lt;button className=&quot;vaporwaveBarContents&quot;&gt;
+               &lt;img
+                   src={require(&quot;../images/button-left-v.svg&quot;)}
+                   alt=&quot;Error&quot;
+                   className=&quot;leftRight&quot;
+               /&gt;
+             &lt;/button&gt;
+             &lt;button className=&quot;vaporwaveBarContents&quot;&gt;
+               &lt;img src={require(&quot;../images/button-right-v.svg&quot;)} alt=&quot;burr&quot; /&gt;
+             &lt;/button&gt;
+           &lt;/div&gt;
+         &lt;/div&gt;
+         &lt;div id=&quot;header&quot; className=&quot;eventHeader&quot;&gt;
+           &lt;h2 id=&quot;eventHeader-text&quot;&gt;
+             {this.props.header}
+           &lt;/h2&gt;
+           &lt;div id=&quot;locationTimeWrapper&quot;/&gt;
+         &lt;/div&gt;
+         &lt;div className=&quot;eventBody&quot;&gt;
+           &lt;img
+               className=&quot;eventBody-image&quot;
+               id=&quot;eventBody-image1&quot;
+               src={this.props.images[0]}
+               alt={&quot;&quot;}
+           /&gt;
+           &lt;p  className=&quot;eventBody-text&quot;&gt;
+             &lt;img
+                 className=&quot;eventBody-image&quot;
+                 id=&quot;eventBody-image2&quot;
+                 src={this.props.images[1]}
+                 alt=&quot;&quot;
+             /&gt;
+             {this.props.body}
+           &lt;/p&gt;
+         &lt;/div&gt;
+         &lt;div className=&quot;event-citation&quot;&gt;
+           &lt;p id=&quot;event-citation-text&quot;&gt;{this.props.citation[0]}&lt;/p&gt;
+
+           &lt;p id=&quot;event-citation-text&quot;&gt;,&lt;/p&gt;
+
+           &lt;p id=&quot;event-citation-text&quot; style={{ marginLeft: 5 }}&gt;
+             {this.props.citation[1]}
+           &lt;/p&gt;
+         &lt;/div&gt;
+       &lt;/div&gt;
+     &lt;/div&gt;
+ );
+</pre></div>
+</div>
+</div></blockquote>
+<div class="section" id="props">
+<h2>Props<a class="headerlink" href="#props" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Style: Which styling should we us</li>
+<li>Header: Summary of the event</li>
+<li>Body: The text of the event, as one paragraph</li>
+<li>Images: The src/url of the pics we want to display</li>
+<li>Currently we only support two, but this will change soon</li>
+</ul>
+</div>
+<div class="section" id="default-css">
+<h2>Default CSS<a class="headerlink" href="#default-css" title="Permalink to this headline">¶</a></h2>
+<p>Tinker around with EventInFocus.css</p>
+</div>
+</div>
+<div class="section" id="the-basic-unique-styling-code-for-an-event-in-focus">
+<h1>The Basic Unique Styling Code for an Event In Focus<a class="headerlink" href="#the-basic-unique-styling-code-for-an-event-in-focus" title="Permalink to this headline">¶</a></h1>
+<blockquote>
+<div><div class="highlight-css notranslate"><div class="highlight"><pre><span></span><span class="nt">const</span> <span class="nt">STYLEPROPGOESHEREDiv</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="k">background</span><span class="p">:</span> <span class="s1">&#39;#BACKGROUND EVENT COLOR GOES HERE&#39;</span><span class="p">,</span>
+  <span class="k">border</span><span class="o">:</span> <span class="s1">&#39;2px solid #ffffff&#39;</span>
+<span class="p">}</span>
+<span class="nt">const</span> <span class="nt">STYLEPROPGOESHEREText</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="n">fontFamily</span><span class="p">:</span> <span class="s2">&quot;CUSTOM FONT GOES HERE&quot;</span><span class="p">,</span>
+  <span class="kc">color</span><span class="o">:</span> <span class="s1">&#39;TEXT EVENT COLOR GOES HERE &#39;</span><span class="p">,</span>
+  <span class="n">marginLeft</span><span class="o">:</span> <span class="mi">5</span><span class="p">,</span>
+  <span class="n">fontSize</span><span class="o">:</span> <span class="s1">&#39;1rem&#39;</span><span class="p">,</span>
+<span class="p">}</span>
+
+<span class="nt">const</span> <span class="nt">STYLEPROPGOESHEREBar</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="k">color</span><span class="p">:</span> <span class="s1">&#39;BUTTON COLOR FOR BAR GOES HERE&#39;</span><span class="p">,</span>
+  <span class="n">backgroundColor</span><span class="o">:</span> <span class="s1">&#39;BACKGROUND COLOR FOR BAR GOES HERE&#39;</span><span class="p">,</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+</div></blockquote>
+<div class="section" id="then-apply-these-styles-in-an-if-statement-in-eventinfocus-js">
+<h2>Then apply these styles in an if statement in EventInFocus.js<a class="headerlink" href="#then-apply-these-styles-in-an-if-statement-in-eventinfocus-js" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><div class="highlight-javascript notranslate"><div class="highlight"><pre><span></span><span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">props</span><span class="p">.</span><span class="nx">style</span> <span class="o">===</span> <span class="s2">&quot;STYLE PROP GOES HERE&quot;</span><span class="p">)</span> <span class="p">{</span>
+ <span class="k">return</span> <span class="p">(</span>
+ <span class="p">...</span>
+ <span class="p">)</span>
+<span class="p">},</span>
+</pre></div>
+</div>
+</div></blockquote>
+</div>
+</div>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<p class="logo">
+  <a href="index.html">
+    <img class="logo" src="_static/Logo.png" alt="Logo"/>
+    
+  </a>
+</p>
+
+
+
+<p class="blurb">Documentation for the ever expanding project about making history cool.</p>
+
+
+
+
+
+
+
+
+    
+
+<p>
+<a class="badge" href="https://travis-ci.org/acrose99/HistoryOfComputingDocs">
+    <img
+        alt="https://secure.travis-ci.org/acrose99/HistoryOfComputingDocs.svg?branch=master"
+        src="https://secure.travis-ci.org/acrose99/HistoryOfComputingDocs.svg?branch=master"
+    />
+</a>
+</p>
+
+
+<h3>Navigation</h3>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="the-code.html">The Code</a></li>
+<li class="toctree-l1"><a class="reference internal" href="the-design.html">The Design</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+  <li><a href="the-code.html">The Code</a><ul>
+      <li>Previous: <a href="Code-Event.html" title="previous chapter">The React Code for an event</a></li>
+      <li>Next: <a href="Code-Timeline.html" title="next chapter">The Code for A Timeline</a></li>
+  </ul></li>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2020, Alex Rose.
+      
+      |
+      <a href="_sources/Code-EventsInFocus.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
