@@ -31,6 +31,7 @@ The JSON code
 Fields
 ----------
 * ID: This currently does nothing and may be removed, might be useful if we ever start hosting events in a noSQL database.
+* Type: What type of event is this? Is it about Apple, then put "Apple". Is it about IBM? Then put "IBM". This deterimines the styling for the event. More documentation to come for this.
 * A one sentence description of the event. Used for the event in the initial timeline.
 * Body: The actual text describing the event. This can be as long as you want it, just make sure it's within the quoted strings on the line.
 * Date: When the event happened, either a string or a number, since problems exist with the DATE Javascript notation.
